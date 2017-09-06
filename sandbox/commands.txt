@@ -1,0 +1,12 @@
+mkdir sandbox
+cd sandbox/
+mkdir dir1
+cd dir1
+touch file1.txt
+cd ..
+mkdir dir1
+cd dir1
+touch file1.txt
+cd ..
+tree
+

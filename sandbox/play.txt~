@@ -1,0 +1,6 @@
+cp -R ~/sandbox/ ~/playpen
+mv ~/playpen/dir1 ~/playpen/folder1
+mv ~/playpen/dir2 ~/playpen/folder2
+mv ~/sandbox/play.txt ~/playpen
+
+
